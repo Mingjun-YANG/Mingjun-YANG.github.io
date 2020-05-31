@@ -59,7 +59,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""
+sidebar-about-description: "Tel: 408-421-6755<br> Email: mingjyang96@gmail.com<br> Santa Clara, CA 95051"
 sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
